@@ -57,3 +57,7 @@ testing, may be buggy. Firefox nightlies, for example, can be found at:
     ftp://ftp.mozilla.org/pub/firefox/nightly/latest-trunk/
             - or -
     http://nightly.mozilla.org/
+### Addendum
+
+This repository is for archival purpose only. I don't know anything about coding so I can't change anything in this code.
+I think the second generation of Waterfox should continue to exist.
